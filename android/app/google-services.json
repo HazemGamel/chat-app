@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513220096000",
+    "project_id": "chat-de79b",
+    "storage_bucket": "chat-de79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513220096000:android:e38cb7955490fdac1768e5",
+        "android_client_info": {
+          "package_name": "com.zomegy.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513220096000-jl54na6q9lv2crduvvdd61caar62j748.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zomegy.chat",
+            "certificate_hash": "0065d3bd0f4f6941c8da1f4c7f6ab5b6554a1a7a"
+          }
+        },
+        {
+          "client_id": "513220096000-m71pi2tomjjd3i91iafsn28tnfp8gv7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWySE4KulfWyf660An6fIF_piVCmAWZNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513220096000-m71pi2tomjjd3i91iafsn28tnfp8gv7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
